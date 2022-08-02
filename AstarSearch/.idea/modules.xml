@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AstarSearch.iml" filepath="$PROJECT_DIR$/.idea/AstarSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Chess/.idea/Chess.iml" filepath="$PROJECT_DIR$/../Chess/.idea/Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KeyBind/.idea/KeyBind.iml" filepath="$PROJECT_DIR$/../KeyBind/.idea/KeyBind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Misc/.idea/Misc.iml" filepath="$PROJECT_DIR$/../Misc/.idea/Misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PianoConverter/.idea/PianoConverter.iml" filepath="$PROJECT_DIR$/../PianoConverter/.idea/PianoConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Raycasting/.idea/Raycasting.iml" filepath="$PROJECT_DIR$/../Raycasting/.idea/Raycasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SobelOperator/.idea/SobelOperator.iml" filepath="$PROJECT_DIR$/../SobelOperator/.idea/SobelOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SudokuSolver/.idea/SudokuSolver.iml" filepath="$PROJECT_DIR$/../SudokuSolver/.idea/SudokuSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" filepath="$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Vectors/.idea/Vectors.iml" filepath="$PROJECT_DIR$/../Vectors/.idea/Vectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stockAnalysis/.idea/stockAnalysis.iml" filepath="$PROJECT_DIR$/../stockAnalysis/.idea/stockAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stockAnalysisV2/.idea/stockAnalysisV2.iml" filepath="$PROJECT_DIR$/../stockAnalysisV2/.idea/stockAnalysisV2.iml" />
+    </modules>
+  </component>
+</project>
